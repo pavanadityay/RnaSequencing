@@ -1,0 +1,1 @@
+Download the datasets from the links provided in Readme.md file and copy them to this data folder before running the Python script.
