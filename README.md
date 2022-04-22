@@ -44,7 +44,7 @@ Run `Project.py` which is available in the Code folder, dataset files that are m
 
 ## Repository
 
-Project Link: https://github.com/pavanadityay/SIngleCellRnaSequencing
+Project Link: https://github.com/pavanadityay/RnaSequencing
 
 
 
